@@ -9,7 +9,7 @@ Auto-painting sketches by using cGAN.
 - OpenCV 3.4.1
 
 # Demo
-![demo](https://i.loli.net/2018/04/10/5acbde867d433.jpg)
+![demo](demo/demo.jpg)
 
 # Refs
 
